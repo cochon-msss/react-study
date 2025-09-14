@@ -2,6 +2,8 @@
 
 이 프로젝트는 React 기초 강의를 기반으로 만든 애플리케이션입니다.
 
+- **강의 링크**: [React 기초 강의(코딩앙마)](https://www.youtube.com/playlist?list=PLZKTXPmaJk8J_fHAzPLH8CJ_HO_M33e7-)
+
 ---
 
 ### 1. 프로젝트 생성
